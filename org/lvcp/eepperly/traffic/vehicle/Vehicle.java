@@ -1,8 +1,8 @@
-package vehicle;
+package org.lvcp.eepperly.traffic.vehicle;
 
-import road.Lane;
-import road.Traffic;
-import driver.Driver;
+import org.lvcp.eepperly.traffic.road.Lane;
+import org.lvcp.eepperly.traffic.road.Traffic;
+import org.lvcp.eepperly.traffic.driver.Driver;
 /**
  * Created by eepperly16 on 10/24/15.
  */
@@ -11,7 +11,7 @@ public abstract class Vehicle {
     protected Driver driver;
     protected Traffic traffic;
 
-    //physical parameters of the vehicle
+    //physical parameters of the org.lvcp.eepperly.traffic.vehicle
     protected double length;
     protected double maxAccel;
     protected double maxDecel;

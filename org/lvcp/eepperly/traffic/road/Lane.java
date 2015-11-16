@@ -1,7 +1,7 @@
-package road; /**
+package org.lvcp.eepperly.traffic.road; /**
  * Created by eepperly16 on 10/24/15.
  */
-import vehicle.Vehicle;
+import org.lvcp.eepperly.traffic.vehicle.Vehicle;
 import java.util.LinkedList;
 import java.util.Iterator;
 public class Lane {

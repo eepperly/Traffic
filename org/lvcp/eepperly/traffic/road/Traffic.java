@@ -1,4 +1,4 @@
-package road;
+package org.lvcp.eepperly.traffic.road;
 
 /**
  * Created by eepperly16 on 10/24/15.

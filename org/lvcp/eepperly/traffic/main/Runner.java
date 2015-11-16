@@ -1,11 +1,11 @@
-package main;
+package org.lvcp.eepperly.traffic.main;
 
-import driver.Driver;
-import driver.StandardDriver;
-import road.Lane;
-import road.Traffic;
-import vehicle.Car;
-import vehicle.Vehicle;
+import org.lvcp.eepperly.traffic.driver.Driver;
+import org.lvcp.eepperly.traffic.driver.StandardDriver;
+import org.lvcp.eepperly.traffic.road.Lane;
+import org.lvcp.eepperly.traffic.road.Traffic;
+import org.lvcp.eepperly.traffic.vehicle.Car;
+import org.lvcp.eepperly.traffic.vehicle.Vehicle;
 
 /**
  * Created by eepperly16 on 10/25/15.

@@ -1,8 +1,8 @@
-package vehicle;
+package org.lvcp.eepperly.traffic.vehicle;
 
-import driver.Driver;
-import road.Lane;
-import road.Traffic;
+import org.lvcp.eepperly.traffic.driver.Driver;
+import org.lvcp.eepperly.traffic.road.Lane;
+import org.lvcp.eepperly.traffic.road.Traffic;
 
 /**
  * Created by eepperly16 on 10/24/15.

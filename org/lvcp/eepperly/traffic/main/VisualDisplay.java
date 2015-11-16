@@ -1,20 +1,17 @@
-package main;
+package org.lvcp.eepperly.traffic.main;
 
-import road.Traffic;
-import road.Lane;
-import driver.Driver;
-import driver.StandardDriver;
-import vehicle.Vehicle;
-import vehicle.Car;
+import org.lvcp.eepperly.traffic.road.Traffic;
+import org.lvcp.eepperly.traffic.road.Lane;
+import org.lvcp.eepperly.traffic.driver.Driver;
+import org.lvcp.eepperly.traffic.driver.StandardDriver;
+import org.lvcp.eepperly.traffic.vehicle.Vehicle;
+import org.lvcp.eepperly.traffic.vehicle.Car;
 
 
 import javax.swing.JFrame;
 import java.awt.Graphics;
 import javax.swing.JPanel;
 import java.awt.Color;
-import javax.swing.JLabel;
-import javax.swing.ImageIcon;
-import java.awt.BorderLayout;
 
 /**
  * Created by eepperly16 on 10/25/15.
